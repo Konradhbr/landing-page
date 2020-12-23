@@ -19,7 +19,7 @@ html {
   overflow-y: scroll;
   color: white;
   scroll-behavior: smooth;
-  /* background-image: url(/src/assets/images/bg.jpg); */
+  background-image: url(/src/assets/images/bg.jpg);
 }
 
 .container {
